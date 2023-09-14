@@ -25,36 +25,49 @@
 
 
 # Landing page
-![Screenshot (131)](https://github.com/aniketghormare/guiltless-turkey-1550/assets/115496998/e1e3bd40-61b5-4aee-b4a3-206d3646d54b)
+
+
+![2023-09-14 (10)](https://github.com/borsejugal23/Gamezy.com/assets/115457172/faf8023c-31fe-4370-86a6-eddb535d757e)
+
+
 
 
 # Login section
-![image](https://github.com/aniketghormare/guiltless-turkey-1550/assets/115496998/bfbad01e-09e0-467b-99aa-40c02cdc9c9d)
+
+
+
+![2023-09-14 (11)](https://github.com/borsejugal23/Gamezy.com/assets/115457172/bf00d2ba-986e-4a5d-b913-4d0491199947)
+
+
 
 
 # Games Section
-![image](https://github.com/aniketghormare/guiltless-turkey-1550/assets/115496998/2ec3d836-c32e-435e-92b2-263b00fab47a)
-![image](https://github.com/aniketghormare/guiltless-turkey-1550/assets/115496998/9ec8c537-1917-4659-9383-545e61084de4)
+
+
+
+
+![2023-09-14 (6)](https://github.com/borsejugal23/Gamezy.com/assets/115457172/3ea49e43-d3eb-4496-b13e-89a74809b739)
 
 
 # Movies Section
-![image](https://github.com/aniketghormare/guiltless-turkey-1550/assets/115496998/e4707806-be7d-47cd-a424-d79b65481f3c)
+
+
+
+
+![2023-09-14 (7)](https://github.com/borsejugal23/Gamezy.com/assets/115457172/49c88d27-d023-4d6b-a5d3-c6ae990a9fa2)
 
 
 # Cart Section
-![image](https://github.com/aniketghormare/guiltless-turkey-1550/assets/115496998/190c2e15-bfd0-4cb8-9c31-e0f36e983e4f)
 
 
-# Admin Login Section
-![image](https://github.com/aniketghormare/guiltless-turkey-1550/assets/115496998/3faedb8b-637b-40d4-b2bc-c290fcb4735b)
+
+![2023-09-14 (8)](https://github.com/borsejugal23/Gamezy.com/assets/115457172/a944526d-2cc3-4ca8-acef-431e0f2b1416)
 
 
-# Admin Dashboard section
-![image](https://github.com/aniketghormare/guiltless-turkey-1550/assets/115496998/a2b0ec5b-2bf2-46bd-aa94-abbe99096d29)
 
 
 # Payment page
-![image](https://github.com/aniketghormare/guiltless-turkey-1550/assets/115496998/706e29d6-6621-4ba2-bcad-bd18e1ba2262)
 
 
 
+![2023-09-14 (9)](https://github.com/borsejugal23/Gamezy.com/assets/115457172/c035105b-c1ef-43e9-97c7-354808ab69d0)
