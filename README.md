@@ -1,4 +1,5 @@
 # Gamezy.com
+GAMEZY is a online gaming and movies platform. it's provides to the user play online gaming and movies.
 
 
 ## Team Members:-
