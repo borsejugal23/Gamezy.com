@@ -2,11 +2,11 @@
 
 
 ## Team Members:-
-- fp07_334 -  Aniket Ghormare	(Team lead)
-- fp08_039 -  Vishal kumar	
-- fp08_087 -  Jugal jagannath borse
-- fp08_253 -  Roushan kumar
-- fp08_323 -  Prajit Santra
+    Aniket Ghormare	(Team lead)
+    Vishal kumar	
+    Jugal jagannath borse
+    Roushan kumar
+    Prajit Santra
 
 
 ## Pages and features
